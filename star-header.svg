@@ -1,0 +1,30 @@
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- Twinkling stars -->
+  <g fill="white">
+    <circle cx="10%" cy="30%" r="2">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="25%" cy="60%" r="1.5">
+      <animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="40%" cy="20%" r="2">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="55%" cy="70%" r="1.8">
+      <animate attributeName="opacity" values="1;0.1;1" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="70%" cy="40%" r="2">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="85%" cy="55%" r="1.6">
+      <animate attributeName="opacity" values="1;0;1" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
