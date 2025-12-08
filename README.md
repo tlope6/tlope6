@@ -1,14 +1,3 @@
-## Hi there 👋 I'm _Tatiana_
-
-I'm currently a BS Computer Science student at UIC with a passin of software development!✨
-I enjoy solving problems, learning new languages, and contributing to open-source. 
-
-**What I'm working on:** 💻
-- Improving my CaptialChronicles App
-- UI changes for 3-Card Poker and KenoGame
-- Developing a ML project **coming soon**
-- Exploring new languages I haven't learned yet
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-line.svg" width="100%" />
@@ -18,7 +7,7 @@ I enjoy solving problems, learning new languages, and contributing to open-sourc
 
 <!-- HEADER STAR BANNER (optional SVG you add later) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/star-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-header.svg" width="100%" />
 </p>
 
 <h1 align="center">✨ Hello! I'm Tatiana ✨</h1>
@@ -67,6 +56,6 @@ Here’s what I’m aiming for next:
 
 <!-- FOOTER STAR LINE (optional SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/star-footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-footer.svg" width="100%" />
 </p>
 
