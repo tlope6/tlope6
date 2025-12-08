@@ -5,7 +5,8 @@ I enjoy solving problems, learning new languages, and contributing to open-sourc
 
 **What I'm working on:**💻
 - Improving my CaptialChronicles App
-- Developing a ML project 
+- UI changes for 3-Card Poker and KenoGame
+- Developing a ML project **coming soon**
 - Exploring new languages I haven't learned yet
 
 
