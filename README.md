@@ -10,5 +10,10 @@ I enjoy solving problems, learning new languages, and contributing to open-sourc
 - Exploring new languages I haven't learned yet
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-line.svg" width="100%" />
+</p>
+
+
 
 
