@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-line.svg" width="100%" />
-</p>
-
-
-
 <!-- HEADER STAR BANNER (optional SVG you add later) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-header.svg" width="100%" />
