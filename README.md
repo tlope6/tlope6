@@ -50,6 +50,6 @@ Here’s what I’m aiming for next:
 
 <!-- FOOTER STAR LINE (optional SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tlope6/tlope6/main/star-header.svg" width="100%" />
 </p>
 
