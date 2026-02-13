@@ -10,8 +10,7 @@
 ---
 
 ## 🌟 About Me
-Hi! I'm a Computer Science student who loves exploring the universe of code.  
-I'm passionate about building meaningful projects, learning new technologies, and growing my skills every day.
+Hi! I'm a Computer Science student who loves exploring the universe of code. I'm passionate about building meaningful projects, learning new technologies, and growing my skills every day.
 
 ✨ **Tech Interests:** Web Dev, AI/ML, Backend Systems  
 🔭 **Currently learning:** SQL, F#
