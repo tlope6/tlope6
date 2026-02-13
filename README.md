@@ -36,7 +36,7 @@ Tech used: `Java`
 Here’s what I’m aiming for next:
 
 - ⭐ Build more open-source projects  
-- 🌙 Learn ADD TECHNOLOGY  
+- 🌙 Learn more Tech  
 - 🌌 Contribute to bigger repositories  
 - 🔭 Strengthen algorithms & problem-solving  
 - ✨ Create something visually stunning (like this theme!)
