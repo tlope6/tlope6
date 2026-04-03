@@ -22,7 +22,7 @@ Right now, I'm expanding my skills exploring languages like SQL and F#, and I'm 
 My mission is to keep building, keep learnign, and use technology to make a real change. 
 
  **Tech Interests:** Full-Stack, Machine Learning
- **Currently learning:** SQL, F#
+ **Currently learning:** SQL, F#, Go
 
 ---
 
