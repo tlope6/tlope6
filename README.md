@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> Hello! I'm Tatiana </h1>
-<p align="center"> CS & Psych @ UIC • Full-Stack Developer • Machine Learning Ethusiast </p>
+<p align="center"> CS & Psych @ UIC • Full-Stack Developer  </p>
 
 ---
 
