@@ -52,7 +52,7 @@ Here’s what I’m aiming for next:
 ---
 
 ##  Connect With Me
-[LinkedIn](http://www.linkedin.com/in/tatiana-lopez-59929b234) • [Portfolio](https://tlope6.github.io/tatiana-lopez-portfolio/) • [Email Me](mailto:Tatianamlopez27@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/tatiana-lopez-59929b234) • [Portfolio](https://tlope6.github.io/tatiana_lopez_portfolio/) • [Email Me](mailto:Tatianamlopez27@gmail.com)
 
 ---
 
